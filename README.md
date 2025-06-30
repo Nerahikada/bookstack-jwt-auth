@@ -13,3 +13,8 @@ composer install
 2. Edit lines 5 to 7 of `functions.php`.
 
 3. Add `APP_THEME=bookstack-jwt-auth` to the environment variable and start BookStack.
+
+## References
+
+- Feature request: <https://github.com/BookStackApp/BookStack/issues/607>
+- Cloudflare Zero Trust docs: <https://developers.cloudflare.com/cloudflare-one/identity/authorization-cookie/validating-json/>
